@@ -1,0 +1,25 @@
+* {
+    font-family: "Verdana", "Tahoma", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 54px;
+    margin-bottom: 16px;
+}
+
+div.container {
+    text-align:center; 
+}
+
+ul {
+    display: inline-block;
+    text-align: center;
+}
+
+li {
+    padding-bottom: 8px;
+    font-style: italic;
+    font-size: 20px;
+}
